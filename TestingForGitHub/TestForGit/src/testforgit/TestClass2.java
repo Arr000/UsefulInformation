@@ -12,6 +12,7 @@ package testforgit;
 public class TestClass2 {
     
     private int alder;
+    private int age;
     
     
    
