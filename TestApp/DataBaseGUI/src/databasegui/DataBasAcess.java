@@ -8,7 +8,7 @@ import java.util.HashMap;
 public class DataBasAcess{
      
     private static InfDB idb;
-    //Denna metod kopplar upp sig emot databasen.
+    //Denna metod kopplar upp sig mot databasen.
     public static void Connect()
     {
         try
