@@ -18,6 +18,8 @@ public class TestForGit {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("Test av Romeo");
+        System.out.println("TestAvArash");
+        System.out.println("TestAvArash1");
     }
     
 }
